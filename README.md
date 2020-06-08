@@ -1,2 +1,2 @@
 # hello-world
-Writing this for the tutorial ...
+Writing this for the tutorial :D
